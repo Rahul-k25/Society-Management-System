@@ -1,2 +1,2 @@
-# Society-Management-System
-Society Management System effectively manages and handles all the functioning of a cooperative housing society.
+# Society-Database-Management-System
+Front End tools: HTML, JavaScript, CSS, PHP      Back End tools: phpmyadmin     MySQL database 
