@@ -23,7 +23,7 @@ Admin can responsible for solve complain made by any member of the system. Admin
 In our society system admin can allocate house to member and member is a owner of house. Member can easily put his house on rent and sell whenever he wants. Member can make any complain related to house by login his account and he can change his account detail, contact detail.
 
 ## Functionality of Security gurad :
-Security guard record the details of everyone who coming inside of society.
+A security guard keeps a record of everyone who comes into society.
 Admin can add, delete or update the details of security guard
 
 ## Project Structure
