@@ -1,5 +1,5 @@
 # Society-Database-Management-System
-**Front End tools: HTML, JavaScript, CSS, PHP**     
+**Front End tools: HTML, CSS, PHP**     
 **Back End tools: phpmyadmin, MySQL database**
 
 ## Abstract of Project :
