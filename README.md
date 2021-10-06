@@ -17,7 +17,7 @@ Admin can manage all the system by login with his username and password.
 Admin can register or add the detail of society and create or add the detail of a number of houses of a particular society.
 After crating a house, allocate the house to members and generate a username and password for all the members of this system. The member is the owner of the house.
 
-Admin can be responsible for solve complaints made by any member of the system. Admin can manage reports of rent house, sell the house and complain.
+Admin is responsible for solve complaints made by any member of the system. Admin can manage reports of rent house, sell the house and complain.
 
 ## Functionality of Member / Owner of House :
 In our society, the admin can allocate houses to members and the member is the owner of the house. Member can easily put his house on rent and sell whenever he wants. Member can make any complaint related to the house by login his account and he can change his account detail, contact detail.
